@@ -1,6 +1,5 @@
 - [Syllabus](syllabus.md)
-- [Schedule](schedule.md)
-- [Quiz](quiz.md)
+- [Course Notes + Schedule](Home.md)
 <!-- - [Final Project](final-project.md) -->
 <!-- * [Schedule](schedule.md)
 * [Topics](topics.md)
