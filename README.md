@@ -1,8 +1,8 @@
 # CIS 100 - Introduction to Computers and Digital Technologies
 
 ## Links
-- [Syllabus](./syllabus.md)
-- [Course Schedule and Notes](./home.md)
+- [Syllabus](./docs/syllabus.md)
+- [Course Schedule and Notes](./docs/home.md)
 
 ## Course Description
 
