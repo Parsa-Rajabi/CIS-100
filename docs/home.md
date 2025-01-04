@@ -37,4 +37,4 @@ Here’s how the drop-in sessions will work:
 - Students will be placed in a virtual waiting room upon joining. Aastha will assist each student on a first-come, first-served basis.
 - Please remain on the Zoom call until it’s your turn for assistance.
 
-Astha will also be available on an ad-hoc basis during the weeks that we have live class. Please check the [course syllabus](home.md) for her email address.
+Astha will also be available on an ad-hoc basis during the weeks that we have live class. Please check the [course syllabus](syllabus.md) for her email address.
