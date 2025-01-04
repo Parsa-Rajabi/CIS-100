@@ -1,5 +1,5 @@
 - [Syllabus](syllabus.md)
-- [Course Notes + Schedule](Home.md)
+- [Course Notes + Schedule](home.md)
 <!-- - [Final Project](final-project.md) -->
 <!-- * [Schedule](schedule.md)
 * [Topics](topics.md)

@@ -1,5 +1,5 @@
 - [Syllabus](syllabus.md)
-- [Course Notes + Schedule](Home.md)
+- [Course Notes + Schedule](home.md)
 <!-- - [Quiz](quiz.md) -->
 <!-- - [Final Project](final-project.md) -->
 <!-- <form action="https://github.com/hibbitts-design/docsify-open-course-starter-kit/generate" target="_blank">
