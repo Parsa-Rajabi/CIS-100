@@ -1,5 +1,6 @@
 - [Syllabus](syllabus.md)
 - [Course Notes + Schedule](home.md)
+- [Feedback](feedback.md)
 <!-- - [Final Project](final-project.md) -->
 <!-- * [Schedule](schedule.md)
 * [Topics](topics.md)
