@@ -12,7 +12,7 @@ All course slides are password protected. Visit course info page on Blackboard (
 
 | **Wk#** | **Date** |         **Modality**        |          **Topic**         |          **Course Notes**          |                   **Videos**                  |    **Assignments**    |     **Module Test**     |
 |:-------:|:--------:|:---------------------------:|:--------------------------:|:----------------------------------:|:---------------------------------------------:|:---------------------:|:-----------------------:|
-|    1    |   Jan 6  |         Live [Zoom]         |  Syllabus & Introductions  |              [Slides]              |                                               |                       |                         |
+|    1    |   Jan 6  |         Live [Zoom]         |  Syllabus & Introductions  |              [Slides](http://tiny.cc/CIS-100-SP25-W1)              |                                               |                       |                         |
 |    2    |  Jan 13  |         Live [Zoom]         |    MS Word Chapters 1-3    |   [Slides](http://tiny.cc/100-W2)  |    [Videos](videos.md#word---chapters-1-3)    |                       |    Word 1-3  (Jan 13)   |
 |    3    |  Jan 20  | Asynchronous [Drop-in Help] |    MS Word Chapters 4-7    |    [Slides](http://tiny.cc/100-W3) |    [Videos](videos.md#word---chapters-4-7)    |                       |    Word 4-7 (Jan 20)    |
 |    4    |  Jan 27  |         Live [Zoom]         |    MS Word Chapters 8-11   |   [Slides](http://tiny.cc/100-W4)  |    [Videos](videos.md#word---chapters-8-11)   |    Word 1 (Jan 28)    |   Word 8-11  (Jan 27)   |
