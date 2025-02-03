@@ -30,7 +30,7 @@
 
 - **What:** Quiz 1 will cover all the concepts covered from the beginning of the course until end week 4. Refer to [course schedule](home.md) for more details.
 - **When:** Monday, February 3
-- **Duration:** 2 Hours 55 mins, during class time
+- **Duration:** 2 Hours 50 mins, during class time
 - **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on Blackoard and Cengage platform
 - **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO Zoom session** during the quiz.
 **note: refer to [quiz rules](#quiz-rules) to understand what open-book means
