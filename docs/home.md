@@ -21,11 +21,11 @@ All course slides are password protected. Visit course info page on Blackboard (
 |    7    |  Feb 17  |          No Class           |       Reading Break        |                                          |                                               |                       |                         |
 |    8    |  Feb 24  | Asynchronous [Drop-in Help] | MS Powerpoint Chapters 5-8 |     [Slides](http://tiny.cc/100-W8)      | [Videos](videos.md#powerpoint---chapters-4-7) | Powerpoint 1 (Feb 25) | Powerpoint 4-7 (Feb 24) |
 |    9    |  Mar 3   |            Quiz             | Chapter Quiz 2: Powerpoint |                                          |                                               |  Powerpoint (Mar 4)   |                         |
-|   10    |  Mar 10  |         Live [Zoom]         |     Excel Chapters 1-6     |     [Slides](http://tiny.cc/100-W10)     |   [Videos](videos.md#excel---chapters-1-6)    |                       |   Excel 1-6 (Mar 10)    |
+|   10    |  Mar 10  |         Live [Zoom]         |     Excel Chapters 1-6     |     [Slides In-class](http://tiny.cc/CIS-100-SP25-W10) <br/> [Slides](http://tiny.cc/100-W10)     |   [Videos](videos.md#excel---chapters-1-6)    |                       |   Excel 1-6 (Mar 10)    |
 |   11    |  Mar 17  | Asynchronous [Drop-in Help] |    Excel Chapters 7-11     |     [Slides](http://tiny.cc/100-W11)     |   [Videos](videos.md#excel---chapters-6-11)   |                       |   Excel 7-11 (Mar 17)   |
 |   12    |  Mar 24  |            Quiz             |   Chapter Quiz 3: Excel    |                                          |                                               |   Excel 1 (Mar 25)    |                         |
 |   13    |  Mar 31  | Asynchronous [Drop-in Help] | Operating System + Ethics  |                                          |                                               |   Excel 2 (Apr 3 )    |                         |
-|   14    |  Apr 7   |         Live [Zoom]         |       Course Wrap-up       |                                          |                                               |                       |                         |
+|   14    |  Apr 7   |         Live [Zoom]         |       Course Wrap-up       |                                          |                                               |   Final Project (April 10)                    |                         |
 
 - **Assignments** and **Module Tests** are due by 11:59 PM PST on the specified date, to be completed and submitted via Cengage MindTap (link available on Course Info page).
 
