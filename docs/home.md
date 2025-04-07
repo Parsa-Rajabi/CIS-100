@@ -25,7 +25,7 @@ All course slides are password protected. Visit course info page on Blackboard (
 |   11    |  Mar 17  | Asynchronous [Drop-in Help] |    Excel Chapters 7-11     |     [Slides](http://tiny.cc/100-W11)     |   [Videos](videos.md#excel---chapters-6-11)   |                       |   Excel 7-11 (Mar 17)   |
 |   12    |  Mar 24  |            Quiz             |   Chapter Quiz 3: Excel    |                                          |                                               |   Excel 1 (Mar 25)    |                         |
 |   13    |  Mar 31  | Asynchronous [Drop-in Help] | Operating System + Ethics  |                                          |                                               |   Excel 2 (Apr 3 )    |                         |
-|   14    |  Apr 7   |         Live [Zoom]         |       Course Wrap-up       |                                          |                                               |   Final Project (April 10)                    |                         |
+|   14    |  Apr 7   |         Live [Zoom]         |       Course Wrap-up       |       [Slides In-class](http://tiny.cc/CIS-100-SP25-W14)                                   |                                               |   Final Project (April 10)                    |                         |
 
 - **Assignments** and **Module Tests** are due by 11:59 PM PST on the specified date, to be completed and submitted via Cengage MindTap (link available on Course Info page).
 
