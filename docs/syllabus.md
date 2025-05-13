@@ -2,13 +2,13 @@
 
 # Course Syllabus
 
-**CIS 100: Introduction to Computers and Digital Technologies (3)**
+**CIS 110: Computerized Business Applications and MIS (3)**
 
 ---
-**Winter 2025**
-
-- **Section CIS 100 ON1 [CRN 10379]**
-  - Mondays, 13:00-15:50, [Hybrid via Zoom](home.md)
+**Summer 2025**
+<!-- TODO Update CRN -->
+- **Section CIS 110 ON2 [CRN 50031]**
+  - Wednesdays, 8:30-11:20am PST, [Hybrid via Zoom](home.md)
 
 ---
 ## Course Instructor
@@ -17,15 +17,15 @@
 
 **Email:** parsa.rajabi [at] ufv [dot] ca
 
-**Office Hours:** TBA
+**Office Hours:** Immediately after lecture + pre-arranged appointments
 
-<!-- Zoom appointments can be made by email request (a minimum of 24 hours in advance). Request for appointments with less than 24 hours notice may not be accommodated. -->
+Zoom appointments can be made by email request (a minimum of 24 hours in advance). Request for appointments with less than 24 hours notice may not be accommodated.
 
-**All inquiries should be sent to the instructor via email. Blackboard Messages are NOT monitored/answered**
+**All inquiries should be sent to the instructor via email. D2L Brightspace Messages are NOT monitored/answered**
 
 Note: When emailing, please include the following in your email:
 
-- Subject: `[CIS 100 ON1] - Your Subject`
+- Subject: `[CIS 110 ON2] - Your Subject`
 - In the body, include your full name, student ID, and your inquiry.
 
 ### Professionalism 
@@ -65,26 +65,23 @@ Giving and receiving feedback is one of the core activities in this class. When 
 
 The [UFV calendar description](https://www.ufv.ca/calendar/current/CourseDescriptions) of this course is:
 
-> Hands-on approach to learning the basics of operating systems, file management, knowledge management, cloud computing, and communications technology. Learn software skills relevant to student success in other courses, such as word processing, presentations, spreadsheets, and graphics.
+> This course covers understanding, application, and advanced skill development in spreadsheets, databases, presentation software, and word-processing, integrated with an introduction to Management Information Systems (MIS). Emphasis is on problem solving and integration of software applications within a MIS context.
+>
+> Note: This course is offered as CIS 110 and BUS 160. Students may take only one of these for credit.
 >
 > Prerequisite(s): None. It is recommended that students are competent in computer skills.
 > Corequisite(s): None.
 > Pre- or corequisite(s): None.
 
 ## Learning Outcomes
-
+<!-- TODO: double check LOs -->
 The Learning outcomes for this course are:
 
-1. Manage file organization locally, on a network, and in the cloud for personal and business use.
-2. Apply advanced search techniques using search engines.
-3. Create digital media with one’s own digital footprint with the privacy concerns.
-4. Demonstrate effective word-processing skills for creating research papers in one of MLA, Chicago, or APA style with
-decolonized adoption.
-5. Apply spreadsheets skills for numerical analysis and to design financial documents.
-6. Develop a professional presentation with graphics.
-7. Demonstrate an awareness of ethics and equity issues relating to cloud computing and modern digital era.
-8. Identify digital communication media tools.
-9. Acknowledge the indigenous history and available resources online.
+1. Demonstrate the sophisticated skills in word processing, spreadsheet and database application, and presentation creation.
+2. Apply professional principles and practices (i.e., privacy, ethics, equity) to data management and sharing.
+3. Use file management systems for data organization, information retrieval, backup, and recovery.
+4. Incorporate software applications to effectively address and resolve business challenges, with a specific focus on Indigenous contexts and data, such as those related to Indigenous population dynamics, education, and facility development.
+
 
 ## Required Textbook Material
 
@@ -93,10 +90,11 @@ decolonized adoption.
 
 The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Edition
 
-- [Link to purchase textbook code from UFV bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,WINT25,CIS,CIS100ON1,&)
+<!-- TODO: Update textbook link -->
+- [Link to purchase textbook code from UFV bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,SUMM25,CIS,CIS110ON2,&)
 
-![](images/CIS100-textbook.png)
-
+![](images/CIS110-textbook.png)
+<!-- TODO: Update textbook screenshot -->
 
 ## Course Evaluation
 
@@ -106,7 +104,7 @@ The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Ed
 |     Assignments     |    25%     |
 |       Quizzes       |    30%     |
 |   Final Component   |    30%     |
-
+<!-- TODO: Double check final component policy -->
 
 ### Letter Grade Conversion
 ![](images/grade_letters.png)
