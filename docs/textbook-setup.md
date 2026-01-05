@@ -27,7 +27,7 @@ Here are the steps to set up your Cengage MindTap account and access the course 
    - If you create a new account, you may need to activate your account (you will receive an email from Cengage with a link to activate your account - this is different from the email/code you received from the bookstore)
 10. After you have logged in or created your account, you will be taken to the Cengage MindTap page for this course as shown below
 
-![image](images/Cengage-Book-Login.png)
+![image](images/Cengage-Book-Login-CIS-100.png)
 
 11.  Click on "Enter your access code" and enter the access code you received in the email from Cengage (Step #4), this code starts with the letter "P" and is 14 characters long
 12.  You will then be taken to the Cengage MindTap page for this course.
