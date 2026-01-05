@@ -2,13 +2,13 @@
 
 # Course Syllabus
 
-**CIS 110: Computerized Business Applications and MIS (3)**
+**CIS 100: Introduction to Computers and Digital Technologies (3)**
 
 ---
-**Summer 2025**
+**Winter 2025**
 
-- **Section CIS 110 ON2 [CRN 50031]**
-  - Wednesdays, 8:30-11:20am PST, [Hybrid via Zoom](home.md)
+- **Section CIS 100 ON1 [CRN 10367]**
+  - Mondays, 11:30-14:20, [Online via Zoom](home.md)
 
 ---
 ## Course Instructor
@@ -17,15 +17,15 @@
 
 **Email:** parsa.rajabi [at] ufv [dot] ca
 
-**Office Hours:** Immediately after lecture + pre-arranged appointments
+**Office Hours:** TBA
 
-Zoom appointments can be made by email request (a minimum of 24 hours in advance). Request for appointments with less than 24 hours notice may not be accommodated.
+<!-- Zoom appointments can be made by email request (a minimum of 24 hours in advance). Request for appointments with less than 24 hours notice may not be accommodated. -->
 
-**All inquiries should be sent to the instructor via email. D2L Brightspace Messages are NOT monitored/answered**
+**All inquiries should be sent to the instructor via email. Blackboard Messages are NOT monitored/answered**
 
 Note: When emailing, please include the following in your email:
 
-- Subject: `[CIS 110 ON2] - Your Subject`
+- Subject: `[CIS 100 ON1] - Your Subject`
 - In the body, include your full name, student ID, and your inquiry.
 
 ### Professionalism 
@@ -65,9 +65,7 @@ Giving and receiving feedback is one of the core activities in this class. When 
 
 The [UFV calendar description](https://www.ufv.ca/calendar/current/CourseDescriptions) of this course is:
 
-> This course covers understanding, application, and advanced skill development in spreadsheets, databases, presentation software, and word-processing, integrated with an introduction to Management Information Systems (MIS). Emphasis is on problem solving and integration of software applications within a MIS context.
->
-> Note: This course is offered as CIS 110 and BUS 160. Students may take only one of these for credit.
+> Hands-on approach to learning the basics of operating systems, file management, knowledge management, cloud computing, and communications technology. Learn software skills relevant to student success in other courses, such as word processing, presentations, spreadsheets, and graphics.
 >
 > Prerequisite(s): None. It is recommended that students are competent in computer skills.
 > Corequisite(s): None.
@@ -77,23 +75,47 @@ The [UFV calendar description](https://www.ufv.ca/calendar/current/CourseDescrip
 
 The Learning outcomes for this course are:
 
-1. Demonstrate the sophisticated skills in word processing, spreadsheet and database application, and presentation creation.
-2. Apply professional principles and practices (i.e., privacy, ethics, equity) to data management and sharing.
-3. Use file management systems for data organization, information retrieval, backup, and recovery.
-4. Incorporate software applications to effectively address and resolve business challenges, with a specific focus on Indigenous contexts and data, such as those related to Indigenous population dynamics, education, and facility development.
+1. Manage file organization locally, on a network, and in the cloud for personal and business use.
+2. Apply advanced search techniques using search engines.
+3. Create digital media with one’s own digital footprint with the privacy concerns.
+4. Demonstrate effective word-processing skills for creating research papers in one of MLA, Chicago, or APA style with
+decolonized adoption.
+5. Apply spreadsheets skills for numerical analysis and to design financial documents.
+6. Develop a professional presentation with graphics.
+7. Demonstrate an awareness of ethics and equity issues relating to cloud computing and modern digital era.
+8. Identify digital communication media tools.
+9. Acknowledge the indigenous history and available resources online.
 
+## Required Technology
+
+Students in this course are expected to have access to the following technology. Missing any of these items may impact your ability to successfully complete the course.
+
+- A reliable computer (laptop or desktop)
+- A stable internet connection (mobile hotspots are not recommended)
+- A webcam and microphone (usually built-in on laptops) **camera is required for class participation**
+- A modern web browser (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge)
+- Microsoft Office 365 (available via UFV's [M365 for Students](https://itservicedesk.ufv.ca/TDClient/52/ITServicesPortal/Requests/ServiceDet?ID=1233))
+  - Note: Microsoft Office is required for this course. If you do not have it installed on your computer, please follow the link above to download and install it for free using your UFV student account.
+- A Cengage MindTap account (see below and [textbook setup instructions](textbook-setup.md))
+- Zoom 
 
 ## Required Textbook Material
+
+This is a required online textbook platform for this course which must be purchased from the UFV bookstore. Each student must have their own access code to complete the course assignments and module tests (e.g., students cannot share access codes).
+
+Each student must have access to a laptop or desktop computer that meets the minimum system requirements for running the Cengage MindTap platform. The minimum system requirements can be found [here](https://help.cengage.com/lms/common/system-requirements.html). Course assessments can not be completed on mobile or tablet devices.
+
+Follow the instructions on the [textbook setup page](textbook-setup.md) to set up your Cengage MindTap account and access the course materials.
 
 > [!WARNING]
 > You will not be able to complete this course with another section's textbooks as they differ. Make sure to select the correct course/section  and see "**Parsa Rajabi**" as instructor.
 
 The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Edition
 
+- [Link to purchase textbook code from UFV bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,WINT25,CIS,CIS100ON1,&)
 
-- [Link to purchase textbook code from UFV bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,SUMM25,CIS,CIS110ON2,&)
+![](images/CIS100-textbook.png)
 
-![](images/CIS110-textbook.png)
 
 ## Course Evaluation
 
@@ -103,6 +125,7 @@ The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Ed
 |     Assignments     |    25%     |
 |       Quizzes       |    30%     |
 |   Final Component   |    30%     |
+
 
 ### Letter Grade Conversion
 ![](images/grade_letters.png)
