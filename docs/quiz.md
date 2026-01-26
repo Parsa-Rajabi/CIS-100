@@ -4,7 +4,7 @@
 <!-- ## Quiz 3
 
 - **What:** Quiz 3 will cover all the concepts covered on Weeks 10 and 12 (Excel). Refer to [course schedule](schedule.md) for more details.
-- **When:** Wednesday, July 30
+- **When:** Monday, March 23
 - **Duration:** 2 Hours 50 mins, during class time
 - **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
 - **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
@@ -17,7 +17,7 @@
 <!-- ## Quiz 2
 
 - **What:** Quiz 2 will cover all the concepts covered between Week 6 and 8 (Powerpoint). Refer to [course schedule](home.md) for more details.
-- **When:** Wednesday, July 9
+- **When:** Monday, March 2
 - **Duration:** 2 Hours 50 mins, during class time
 - **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
 - **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO Zoom session** during the quiz.
@@ -29,7 +29,7 @@
 ## Quiz 1
 
 - **What:** Quiz 1 will cover all the concepts covered from the beginning of the course until end week 4. Refer to [course schedule](home.md) for more details.
-- **When:** Wednesday, June 11
+- **When:** Monday, February 2
 - **Duration:** 2 Hours 50 mins, during class time
 - **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
 - **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO Zoom session** during the quiz.
