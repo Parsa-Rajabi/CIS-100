@@ -1,31 +1,6 @@
 <!-- markdownlint-disable -->
 # Quizzes
 
-<!-- ## Quiz 3
-
-- **What:** Quiz 3 will cover all the concepts covered on Weeks 10 and 12 (Excel). Refer to [course schedule](schedule.md) for more details.
-- **When:** Monday, March 23
-- **Duration:** 2 Hours 50 mins, during class time
-- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
-- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
-- **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO in-person/Zoom session** during the quiz.
-**note: refer to [quiz rules](#quiz-rules) to understand what open-book means
-- Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
-
-**All rules and considerations from Quiz #1 and #2 will apply to Quiz #3.** -->
-
-<!-- ## Quiz 2
-
-- **What:** Quiz 2 will cover all the concepts covered between Week 6 and 8 (Powerpoint). Refer to [course schedule](home.md) for more details.
-- **When:** Monday, March 2
-- **Duration:** 2 Hours 50 mins, during class time
-- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
-- **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO Zoom session** during the quiz.
-**note: refer to [quiz rules](#quiz-rules) to understand what open-book means
-- Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
-
-**All rules and considerations from Quiz #1 will apply to Quiz #2.**  -->
-
 ## Quiz 1
 
 - **What:** Quiz 1 will cover all the concepts covered from the beginning of the course until end week 4. Refer to [course schedule](home.md) for more details.
@@ -114,3 +89,29 @@ If you plan to use a tutor/editor, be aware that any work that you submit must a
 - A private tutoring company coaches you on how to complete an assignment
 - You buy / sell / swap assignment questions and answers on social media platforms like WeChat, Whatsapp, Facebook, etc.
 - Your use an editor (paid or unpaid) without permission of the instructor to revise, correct or alter your work
+
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- ## Quiz 3
+
+- **What:** Quiz 3 will cover all the concepts covered on Weeks 10 and 12 (Excel). Refer to [course schedule](schedule.md) for more details.
+- **When:** Monday, March 23
+- **Duration:** 2 Hours 50 mins, during class time
+- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
+- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
+- **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO in-person/Zoom session** during the quiz.
+**note: refer to [quiz rules](#quiz-rules) to understand what open-book means
+- Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
+
+**All rules and considerations from Quiz #1 and #2 will apply to Quiz #3.** -->
+
+<!-- ## Quiz 2
+
+- **What:** Quiz 2 will cover all the concepts covered between Week 6 and 8 (Powerpoint). Refer to [course schedule](home.md) for more details.
+- **When:** Monday, March 2
+- **Duration:** 2 Hours 50 mins, during class time
+- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
+- **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO Zoom session** during the quiz.
+**note: refer to [quiz rules](#quiz-rules) to understand what open-book means
+- Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
+
+**All rules and considerations from Quiz #1 will apply to Quiz #2.**  -->
