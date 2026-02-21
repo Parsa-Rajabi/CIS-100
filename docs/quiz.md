@@ -5,7 +5,7 @@
 
 - **What:** Quiz 2 will cover all the concepts covered between Week 6 and 8 (Powerpoint). Refer to [course schedule](home.md) for more details.
 - **When:** Monday, March 2
-- **Duration:** 2 Hours 50 mins, during class time
+- **Duration:** 2 Hours 50 mins, during class time, starting at 11:30 PST
 - **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
 - **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO Zoom session** during the quiz.
 **note: refer to [quiz rules](#quiz-rules) to understand what open-book means
