@@ -1,6 +1,6 @@
 # Final Project
 
-As mentioned in class, there will be a final project in lieu of a final exam. The final project will be a comprehensive project that will test your knowledge of the course material. 
+As mentioned in class, there will be a final project in lieu of a final exam. You can safely ignore the final exam date on the university exam schedule. The final project will be a comprehensive project that will test your knowledge of the course material. 
 
 ## Project Rules
 
@@ -15,11 +15,10 @@ As mentioned in class, there will be a final project in lieu of a final exam. Th
 > [!WARNING]
 > Individuals who are suspected of violating these rules will be held accountable and will undergo the appropriate academic integrity procedures. This may result in a failing grade for the project, and potentially failing the course. Make sure you understand the rules and follow them.
 
-## Project Deadline
+## Project Timeline
 
-- The project will be due on, Friday, December 6, 2024 at 11:59pm PST.
-- Late submissions will not be accepted, and will result in a 0 grade for the project.
-
+- The project will be released on Wednesday, March 4, 2026 at 8am PST and will be due on, Wednesday, April 8, 2026 at 11:59pm PST.
+- Project parts can be submitted up to 24 hours after the due date (late) with a 25% penalty. After 24 hours, the submission will not be accepted and a score of zero will be assigned.
 
 ## Project Details
 
@@ -35,6 +34,4 @@ Each part will be graded separately, however, the final project grade will be a 
 
 The project will be submitted via Cengage/MindTap. You can find the project via both Cengage and D2L Brightspace. 
 
-No other modes of submission will be accepted.
-
-
+No other modes of submission will be accepted (e.g, email, google drive, dropbox, etc.). Make sure to submit your project on time via the correct platform.
